@@ -1,0 +1,17 @@
+[user]
+  name = mwrng
+  email = transit.524@gmail.com
+[init]
+  defaultBranch = main
+[core]
+  editor = vim
+	autocrlf = false
+[alias]
+  logg = log --graph
+[merge]
+	ff = false
+[pull]
+	ff = true
+[push]
+  followTags = true
+	default = simple
